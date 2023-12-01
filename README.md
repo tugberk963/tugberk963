@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/LeetCode-ColourCode?logo=LeetCode&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/LeetCode-ColourCode?logo=LeetCode&logoColor=white&style=ShieldStyle" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=tugberk963&count_private=true&theme=radical&show_icons=true" />
 
