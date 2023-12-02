@@ -11,10 +11,6 @@
 - ⚡ Fun fact: I hate Physics.
 
 ### Connect with me:
-
-[![website](./img/leetcode.svg)](https://leetcode.com/tugberk963/#gh-light-mode-only)
-[![website](./img/leetcode.svg)](https://leetcode.com/tugberk963/#gh-light-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/tugberk963#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/tugberk963#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -37,12 +33,9 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-<br />
-<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="Tugberk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tugberk963&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
@@ -50,3 +43,4 @@
 [website]: https://tugberk963.com
 [twitter]: https://twitter.com/tugberk963
 [linkedin]: https://www.linkedin.com/in/tu%C4%9Fberk-s-a75a92161/
+
