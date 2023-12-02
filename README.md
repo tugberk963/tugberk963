@@ -14,7 +14,7 @@
   
 
 <br/> 
-<div align="center"> 
+<div align="center"> Skill Set </div>
 <table><tr><td valign="top" width="33%">
 <h2 align="center">Front-End </h2>  
 <div align="center">  
