@@ -48,8 +48,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Native   
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -73,13 +71,9 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugberk963&hide_border=true&layout=compact" align="center" style="width: 30%" /></div>  
+## My Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugberk963&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 <br/>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tugberk963&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 30%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tugberk963&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" /></div>  
