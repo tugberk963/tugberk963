@@ -13,10 +13,9 @@
 - 🏁 2024 Goal : Learning Kotlin & Java.  
   
 
-<br/>  
-### <div align="center">Hi, I'm Tugberk.</div>  
+<br/>   
 <table><tr><td valign="top" width="33%">
-### <div align="center">Front-End </div>  
+<h2 align="center">Front-End </h2>  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
