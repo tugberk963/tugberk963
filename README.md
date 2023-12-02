@@ -58,8 +58,10 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-<br/>  
+<br/>
+
 ## <div align="center">Stats</div> 
+
 <hr>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugberk963&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 <br/>
