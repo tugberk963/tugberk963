@@ -59,9 +59,9 @@
 </a>  
 </div>  
 <br/>  
-<h3 align="center"> Stats </h3>
+## <div align="center">Stats</div> 
 <hr>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugberk963&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 <br/>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tugberk963&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 60%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tugberk963&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>  
