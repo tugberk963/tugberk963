@@ -14,7 +14,7 @@
   
 
 <br/>  
-## <div align="center">Skill Set </div>  
+### <div align="center">Hi, I'm Tugberk.</div>  
 <table><tr><td valign="top" width="33%">
 ### <div align="center">Front-End </div>  
 <div align="center">  
