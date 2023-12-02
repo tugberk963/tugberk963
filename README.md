@@ -1,6 +1,6 @@
 # Hi, I'm Tugberk
 
-[![Website](https://img.shields.io/website?label=tugberk963.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://google.com](https://github.com/tugberk963/tugberk963)
+[![Website](https://img.shields.io/website?label=tugberk963.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]((https://github.com/tugberk963/tugberk963))
 [![Twitter Follow](https://img.shields.io/twitter/follow/tugberk963?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftugberk963&screen_name=tugberk963)
 
 
