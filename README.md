@@ -13,7 +13,8 @@
 - 🏁 2024 Goal : Learning Kotlin & Java.  
   
 
-<br/>   
+<br/> 
+<div align="center"> 
 <table><tr><td valign="top" width="33%">
 <h2 align="center">Front-End </h2>  
 <div align="center">  
@@ -42,7 +43,10 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 </td></tr></table>  
-<br/>  
+</div>
+<br/> 
+
+
 ## <div align="center">Social</div>  
 <div align="center">
 <a href="https://linkedin.com/in/tuğberk-s-a75a92161/" target="_blank">
