@@ -13,7 +13,9 @@
 </div>  
 
 <br/> 
-<h3 align="center"> Skill Set </h3>
+
+## <div align="center">Skill Set</div> 
+
 <table><tr><td valign="top" width="33%">
 <h2 align="center">Front-End </h2>  
 <div align="center">  
@@ -62,7 +64,6 @@
 
 ## <div align="center">Stats</div> 
 
-<hr>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugberk963&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 <br/>
 <br/>
