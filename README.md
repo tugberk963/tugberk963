@@ -1,16 +1,16 @@
-### <div align="center">Hi, I'm Tugberk.</div>  
+# <div align="center">Hi, I'm Tugberk.</div>  
   
 
-##### <div align="center">I'm a Mobile Developer also a Physics Student.</div>  
+# <div align="center">I'm a Mobile Developer also a Physics Student.</div>  
   
 <div align="center">
-- 🔭 I’m currently working on freelance Flutter projects.  
+🔭 I’m currently working on freelance Flutter projects.  
   
 
-- 🌱 I’m currently learning React Native.   
+🌱 I’m currently learning React Native.   
   
 
-- 🏁 2024 Goal : Learning Kotlin & Java.  
+🏁 2024 Goal : Learning Kotlin & Java.  
 </div>  
 
 <br/> 
@@ -61,6 +61,7 @@
 </div>  
 <br/>  
 <h3 align="center"> Stats </h3>
+<hr>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tugberk963&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>  
 <br/>
 <br/>
