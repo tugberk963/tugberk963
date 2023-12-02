@@ -7,7 +7,7 @@
 ## I'm a Mobile Developer also a Physics Student.
 
 - 🌱 I’m currently learning everything.
-- 🥅 2024 Goals: Involving my self into Full Stack.
+- 🥅 2024 Goals: Becoming a Full Stack.
 - ⚡ Fun fact: I hate Physics.
 
 ### Connect with me:
