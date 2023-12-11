@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Tugberk.</div>  
   
 
-# <div align="center">I'm a Mobile Developer also a Physics Student.</div>  
+# <div align="center">I'm a Software Developer also a Physics Student.</div>  
   
 <div align="center">
 
