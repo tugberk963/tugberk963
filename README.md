@@ -7,9 +7,9 @@
 
 ### 🔭 I’m currently working on freelance Flutter projects.
   
-### 🌱 I’m currently learning React Native.
+### 🌱 I’m currently learning React & React Native.
 
-### 🏁 2024 Goal : Learning Kotlin & Java.  
+### 🏁 2024 Goal : Becoming Full Stack  
 </div>  
 
 <br/> 
