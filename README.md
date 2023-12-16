@@ -50,7 +50,7 @@
 
 ## <div align="center">Social</div>  
 <div align="center">
-<a href="https://linkedin.com/in/tuğberk-s-a75a92161/" target="_blank">
+<a href="https://www.linkedin.com/in/tugberk-serce/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/tugberk963" target="_blank">
