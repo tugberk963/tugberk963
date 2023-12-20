@@ -1,15 +1,11 @@
 # <div align="center">Hi, I'm Tugberk.</div>  
   
-
 # <div align="center">I'm a Software Developer also a Physics Student.</div>  
   
 <div align="center">
 
-### 🔭 I’m currently working on freelance Flutter projects.
-  
-### 🌱 I’m currently learning React & React Native.
+### 🔭 I’m currently working as a Full Stack Developer Intern. 
 
-### 🏁 2024 Goal : Becoming Full Stack  
 </div>  
 
 <br/> 
